@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="./assest/projeto.png">
+  <img alt="License" src="./assets/projeto.png">
 </p>
 
 <br>
